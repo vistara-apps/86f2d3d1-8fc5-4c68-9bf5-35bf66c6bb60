@@ -1,0 +1,30 @@
+{
+  "accountAssociation": {
+    "header": "",
+    "payload": "",
+    "signature": ""
+  },
+  "frame": {
+    "version": "1",
+    "name": "BetFrame",
+    "subtitle": "Built with Zara",
+    "description": "BetFrame is a Base Mini App built with Zara.",
+    "iconUrl": "https://0co.to/images/zara-2.png",
+    "homeUrl": "https://86f2d3d18fc54c689bf535bf66c6bb60-r8e0.vercel.app",
+    "splashImageUrl": "https://86f2d3d18fc54c689bf535bf66c6bb60-r8e0.vercel.app/splash.png",
+    "splashBackgroundColor": "#000000",
+    "heroImageUrl": "https://86f2d3d18fc54c689bf535bf66c6bb60-r8e0.vercel.app/image.png",
+    "tagline": "BetFrame",
+    "screenshotUrls": [
+      "https://86f2d3d18fc54c689bf535bf66c6bb60-r8e0.vercel.app/screenshot.png",
+      "https://86f2d3d18fc54c689bf535bf66c6bb60-r8e0.vercel.app/screenshot.png"
+    ],
+    "primaryCategory": "social",
+    "tags": [
+      "base",
+      "miniapp",
+      "onchainkit"
+    ],
+    "webhookUrl": "https://86f2d3d18fc54c689bf535bf66c6bb60-r8e0.vercel.app/api/webhook"
+  }
+}

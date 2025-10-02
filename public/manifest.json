@@ -1,0 +1,14 @@
+{
+  "name": "BetFrame",
+  "description": "BetFrame is a Base Mini App built with Zara.",
+  "image": "https://dummyimage.com/1200x628/0a0b0d/ffffff.png&text=OG",
+  "external_url": "https://86f2d3d1-8fc5-4c68-9bf5-35bf66c6bb60.vercel.app",
+  "properties": {
+    "app": {
+      "name": "BetFrame",
+      "description": "BetFrame is a Base Mini App built with Zara.",
+      "url": "https://86f2d3d1-8fc5-4c68-9bf5-35bf66c6bb60.vercel.app",
+      "icon": "https://0co.to/images/zara-2.png"
+    }
+  }
+}
